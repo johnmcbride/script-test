@@ -1,0 +1,18 @@
+{
+  "packageId": "testscripts.johnmcbride.me",
+  "packageName": "script test",
+  "packageDescription": "A script package (you should change this!)",
+  "version": "1.0.0",
+  "author": "John McBride",
+  "mainFile": "",
+  "files": [
+    {
+      "name": "test1.ps1",
+      "description": "[Fill out this description to help users understand what your script does]"
+    },
+    {
+      "name": "test2.ps1",
+      "description": "[Fill out this description to help users understand what your script does]"
+    }
+  ]
+}
